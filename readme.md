@@ -2,7 +2,7 @@
 
 ![Code Showcase](https://github.com/2a333a/2a333a/blob/0d6b8561b955bf5597bb8ed977ac795a0c21404d/Images/code-showcase.jpg)
 
-I'm a **front-end web developer** and **multimedia designer**.  
+I'm a **Front-End Web Developer** and **Multimedia Designer**.  
 Over the past four years, I have developed skills in web design, motion graphics, and graphic design, transforming ideas into digital projects that come to life.  
 
 Whether it's building a custom website, creating motion reels, or designing logos and brand identities, I enjoy creating work that is **unique and personal** for each client.
@@ -22,7 +22,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Local development with Local by Flywheel  
 - WordPress & Elementor Pro  
 
-**Code Portfolio:** [GitHub](https://github.com/2a333a)
+**Code Portfolio:** [GitHub @2a333a](https://github.com/2a333a)
 
 ---
 
@@ -35,7 +35,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Adobe Premiere Pro  
 - Adobe Audition  
 
-**Motion Portfolio:** [Vimeo](https://vimeo.com/2a333a)
+**Motion Portfolio:** [Vimeo @2a333a](https://vimeo.com/2a333a)
 
 **Graphic Design Tools:**  
 - Adobe Illustrator  
@@ -43,7 +43,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Adobe InDesign  
 - Adobe Acrobat Pro  
 
-**Design Portfolio:** [Behance](https://www.behance.net/2a333a)
+**Design Portfolio:** [Behance @2a333a](https://www.behance.net/2a333a)
 
 **Web Design Tools:**  
 - Figma  
