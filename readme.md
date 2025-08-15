@@ -9,7 +9,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 
 ---
 
-## ⚫ Front-End Development
+## ⚫ Front-End Web Development
 
 ![Web Development](https://github.com/2a333a/2a333a/blob/0d6b8561b955bf5597bb8ed977ac795a0c21404d/Images/web-developement.jpg)
 
