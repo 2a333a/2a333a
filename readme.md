@@ -22,7 +22,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Local development with Local by Flywheel  
 - WordPress & Elementor Pro  
 
-**Code Portfolio:** [GitHub](https://github.com/mick-2a333a)
+**Code Portfolio:** [GitHub](https://github.com/2a333a)
 
 ---
 
@@ -35,7 +35,7 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Adobe Premiere Pro  
 - Adobe Audition  
 
-**Motion Portfolio:** [Vimeo](https://vimeo.com/mick2a333a)
+**Motion Portfolio:** [Vimeo](https://vimeo.com/2a333a)
 
 **Graphic Design Tools:**  
 - Adobe Illustrator  
@@ -43,13 +43,13 @@ Whether it's building a custom website, creating motion reels, or designing logo
 - Adobe InDesign  
 - Adobe Acrobat Pro  
 
-**Design Portfolio:** [Behance](https://www.behance.net/mickela)
+**Design Portfolio:** [Behance](https://www.behance.net/2a333a)
 
 **Web Design Tools:**  
 - Figma  
 - WordPress & Elementor Pro  
 
-**WordPress Portfolio:** [2a333a.blue](https://www.2a333a.blue/)
+**WordPress Portfolio:** [www.2a333a.blue](https://www.2a333a.blue/)
 
 ---
 
